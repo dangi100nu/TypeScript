@@ -1,6 +1,8 @@
 ## What is TypeScript
 
 > typescript is a superset of javascript theat means everything that you can do in js that is already available in typescript and a lot more is available to that but that is kind of true statement but not accurately contextualized by a lot of people.
+>
+> ![TypeScript](https://plathanus.com.br/blog/admin/uploads/Type_Script_compilado_para_javascript_1_1030x850_b8cff3a880.png)
  
 > its not like adding more feature in javascript. it doesn't give you more callbacks , doesn't give you more arrow funtions . it's just allow you to write javascript in a much precise manner so that you code faces a lot less error in the runtime. if there is any error its already being displayed to you and you can fix it in the runtime (writing the code into the editor VS code).
 
